@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="21018" started-at="2020-05-07T15:12:28 IST" finished-at="2020-05-07T15:12:49 IST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="21018" started-at="2020-05-07T15:12:28 IST" finished-at="2020-05-07T15:12:49 IST">
+      <class name="JavaScriptTest.Down">
+        <test-method status="PASS" signature="mainClass()[pri:0, instance:JavaScriptTest.Down@3fd7a715]" name="mainClass" duration-ms="20738" started-at="2020-05-07T15:12:28 IST" finished-at="2020-05-07T15:12:49 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mainClass -->
+      </class> <!-- JavaScriptTest.Down -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
